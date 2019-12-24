@@ -27,8 +27,8 @@ body {
     font-family: Merriweather; 
 }
 
-.hot-container p { margin-top: 10px; }
-a { text-decoration: none; margin: 0 10px; }
+.hot-container p { margin-top: 5px; }
+a { text-decoration: none; margin: 0 5px; }
 
 .hot-container {
 	min-height: 100px;
